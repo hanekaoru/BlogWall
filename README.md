@@ -110,17 +110,23 @@
 
 [利用apply和arguments复用方法](http://www.cnblogs.com/snandy/p/3254940.html)
 
-[深入理解javascript原型和闭包](http://www.cnblogs.com/wangfupeng1988/p/3977924.html)
+~~[深入理解javascript原型和闭包](http://www.cnblogs.com/wangfupeng1988/p/3977924.html)~~
 
-[javascript异步编程 ](https://segmentfault.com/a/1190000002938132)
+[javascript异步编程](https://segmentfault.com/a/1190000002938132)
+
+~~[理解Javascript的闭包](http://coolshell.cn/articles/6731.html)~~
+
+~~[JavaScript Closures for Dummies（闭包的一些案例）](http://javascript-reference.info/javascript-closures-for-dummies.htm)~~
+
+
 
 
 
 
 ## CSS
-['display'、'position' 和 'float' 的相互关系](http://www.cnblogs.com/jackyWHJ/p/3756087.html)
+~~['display'、'position' 和 'float' 的相互关系](http://www.cnblogs.com/jackyWHJ/p/3756087.html)~~
 
-[CSS的margin塌陷（collapse）](http://blog.chinaunix.net/uid-22414998-id-3138656.html)
+~~[CSS的margin塌陷（collapse）](http://blog.chinaunix.net/uid-22414998-id-3138656.html)~~
 
 [深入理解BFC和Margin Collapse_BFC, margin collapse, clear, float ](http://www.w3cplus.com/css/understanding-bfc-and-margin-collapse.html)
 
@@ -132,7 +138,7 @@
 ## 框架
 
 ### Vue
-[Vue 2.0 的建议学习顺序](https://zhuanlan.zhihu.com/p/23134551)
+~~[Vue 2.0 的建议学习顺序](https://zhuanlan.zhihu.com/p/23134551)~~
 
 [A Simple Vue Guide](http://cody1991.github.io/vue/2016/08/30/a-simple-vue-guide.html)
 
@@ -196,7 +202,7 @@
 
 ### Node
 
-[《Node.js 包教不包会》](https://github.com/hanekaoru/node-lessons)
+~~[《Node.js 包教不包会》](https://github.com/hanekaoru/node-lessons)~~
 
 [Node.js写爬虫系列](https://cnodejs.org/topic/57c529cf9b447b634391c814)
 
@@ -213,11 +219,11 @@
 
 
 
-[Node的十个技巧](http://www.oudahe.com/p/288/)
+~~[Node的十个技巧](http://www.oudahe.com/p/288/)~~
 
 [Node.js ES2015/ES6 support](http://node.green/)
 
-[写给 Node.js 学徒的 7 个建议](http://blog.jobbole.com/48769/)
+~~[写给 Node.js 学徒的 7 个建议](http://blog.jobbole.com/48769/)~~
 
 [Stream学习资料](https://cnodejs.org/topic/570b1fa494b38dcb3c09a7f8)
 
