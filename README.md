@@ -1,3 +1,13 @@
+三个用作记录的仓库：
+
+学习笔记，笔记之类， 一些 Demo 汇总 [笔记记录 + Demo汇总](https://github.com/hanekaoru/WebLearningNotes)
+
+一个资源库，收集一些自己遇到过（用过）的插件，组件一类的 [资源库](https://github.com/hanekaoru/Repository)
+
+一些不错的帖子汇总 [一些不错的帖子汇总](https://github.com/hanekaoru/BlogWall)
+
+----
+
 一些不错的帖子汇总，索引
 
 反正就是一些杂七杂八的，知识点，tips一类的，没事可以刷一刷
