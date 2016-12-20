@@ -10,15 +10,7 @@
 
 一些不错的帖子汇总，索引
 
-反正就是一些杂七杂八的，知识点，tips一类的，没事可以刷一刷
-
-查漏补缺，扩展前端相关知识，总结自己的不足之处
-
-
-
 ## JS
-
-#### Web
 
 [淘宝前端团队（FED）](http://taobaofed.org/)
 
@@ -34,24 +26,16 @@
 
 [do you really know JavaScript? Javascript 8级测试](http://javascript-puzzlers.herokuapp.com/)
 
+----
 
+[230行实现一个简单的MVVM](https://zhuanlan.zhihu.com/p/24451202)
 
+[不造个轮子，你还真以为你会写代码了？](https://zhuanlan.zhihu.com/p/24435564)
 
-### ES6
 [es6-cheatsheet-chinese（ES6中文版，包括一些常用代码片段）](https://github.com/hanekaoru/es6-cheatsheet-chinese)
 
 [《ECMAScript 6入门》](http://es6.ruanyifeng.com/#README)
 
-
-
-
-### ES5规范（中文）
-[ES5](https://www.w3.org/html/ig/zh/wiki/ES5)
-
-
-
-
-### underscore
 [underscore](https://github.com/jashkenas/underscore)
 
 [Underscore.js (1.8.3) 中文文档](http://www.css88.com/doc/underscore/)
@@ -60,30 +44,7 @@
 
 [JS高手进阶之路：underscore源码经典](http://www.imooc.com/article/1566)
 
-
-
-
-### backbone
-[backbone](https://github.com/jashkenas/backbone)
-
-[Backbone.js(1.1.2) API中文文档](http://www.css88.com/doc/backbone/)
-
-
-
-
-### prototype
-[prototype.js 开发者手册](http://thinhunan.cnblogs.com/archive/2006/04/01/DeveloperNotesForPrototype.html)
-
-
-
-
-### zepto
 [zepto](https://github.com/madrobby/zepto)
-
-
-
-
-### 移动端
 
 [Web移动端Taps](http://www.haorooms.com/post/phone_web)
 
@@ -93,19 +54,10 @@
 
 [移动端HTML5音频与视频问题及解决方案](http://www.cnblogs.com/aaronjs/p/4812119.html)
 
-
-
-
-### jQuery
-
 [开发一款自己的js或者jquery插件](http://www.haorooms.com/post/js_jquery_chajian)
 
 [js和jquery懒加载之可视区域加载](http://www.haorooms.com/post/js_jquery_lazyload_viewload)
 
-
-
-
-### 其他
 [Javascript模块化编程](http://www.ruanyifeng.com/blog/2012/10/javascript_module.html)
 
 [HTML5各种排序算法的动画比较](http://www.webhek.com/misc/comparison-sort)
@@ -134,6 +86,7 @@
 
 
 ## CSS
+
 ~~['display'、'position' 和 'float' 的相互关系](http://www.cnblogs.com/jackyWHJ/p/3756087.html)~~
 
 ~~[CSS的margin塌陷（collapse）](http://blog.chinaunix.net/uid-22414998-id-3138656.html)~~
@@ -147,7 +100,6 @@
 
 ## 框架
 
-### Vue
 ~~[Vue 2.0 的建议学习顺序](https://zhuanlan.zhihu.com/p/23134551)~~
 
 [A Simple Vue Guide](http://cody1991.github.io/vue/2016/08/30/a-simple-vue-guide.html)
@@ -158,35 +110,17 @@
 
 [vue.js的一些稍微复杂的案例](https://www.zhihu.com/question/38269617)
 
-
-
-
-
-### Angular
 [AngularJS学习笔记](http://www.zouyesheng.com/angular.html)
 
 [衡量一个人的 AngularJS 水平](https://www.zhihu.com/question/36040694#answer-31088795)
 
 [Angular冒泡排序算法的可视化](http://runjs.cn/detail/jcdxyuo0)
 
-
-
-
-### React
 [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react)
 
 [一看就懂的ReactJs入门教程（精华版）](http://www.cocoachina.com/webapp/20150721/12692.html)
 
 [React 中文](http://react-china.org/)
-
-
-
-
-### 工具
-[Git 工作流程](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
-
-[GotGitHub](http://www.worldhello.net/gotgithub/)
-
 
 
 
@@ -209,9 +143,6 @@
 
 ## 后端
 
-
-### Node
-
 ~~[《Node.js 包教不包会》](https://github.com/hanekaoru/node-lessons)~~
 
 [Node.js写爬虫系列](https://cnodejs.org/topic/57c529cf9b447b634391c814)
@@ -225,9 +156,6 @@
 [大熊君大话NodeJS(一篇不错的教程帖)](http://www.cnblogs.com/bigbearbb/p/4200700.html)
 
 [Node.js 全栈开发](https://course.tianmaying.com/node+internet-intro#0)
-
-
-
 
 ~~[Node的十个技巧](http://www.oudahe.com/p/288/)~~
 
@@ -253,21 +181,11 @@
 
 [process.stdin的end事件如何触发？](http://www.jianshu.com/p/537b44a90c83)
 
-
-
-
-### co
-
 [co 4.6源码解析](https://cnodejs.org/topic/576bdffa889605241796f7d9)
 
 [co 函数库的含义和用法](http://www.ruanyifeng.com/blog/2015/05/co.html)
 
 [一起来实现co（Promise化的4.X版）](https://segmentfault.com/a/1190000002715797)
-
-
-
-
-### express
 
 [科普：express文件上传、上传到七牛](https://cnodejs.org/topic/56792a7a7c6184e94a9d73d0)
 
@@ -277,19 +195,9 @@
 
 [从npm tips到express插件机制设计](https://cnodejs.org/topic/559ba9221e5c761761468859)
 
-
-
-
-### Promise 相关
-
 [Node.js最新技术栈之Promise篇](https://cnodejs.org/topic/560dbc826a1ed28204a1e7de)
 
 [Async中文文档](http://www.uedsc.com/open/async-doc)
-
-
-
-
-### mongodb
 
 [mongodb备份-mmb使用说明和如何导出更可读的csv](https://cnodejs.org/topic/55d9e4f77bfbf9fc0f1ce51b)
 
@@ -301,17 +209,9 @@
 
 [测试驱动来学习mongoose](https://cnodejs.org/topic/54578d9b6537f4d52c414e09)
 
-
-
-
-### TCP和Http
-
 [TCP和Http的区别](http://www.cnblogs.com/welcomer/p/3776525.html)
 
-
-
-
-### 其他
+## 其他
 
 [《何为 connect 中间件》](https://github.com/alsotang/node-lessons/tree/master/lesson18)
 
