@@ -30,6 +30,8 @@
 
 ----
 
+[JavaScript 包管理器工作原理简介](https://zhuanlan.zhihu.com/p/24045251)
+
 [230行实现一个简单的MVVM](https://zhuanlan.zhihu.com/p/24451202)
 
 [不造个轮子，你还真以为你会写代码了？](https://zhuanlan.zhihu.com/p/24435564)
