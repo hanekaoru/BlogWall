@@ -145,6 +145,9 @@
 
 ## 后端
 
+[Node & Express 入门指南](https://zhuanlan.zhihu.com/p/24283620)
+
+
 ~~[《Node.js 包教不包会》](https://github.com/hanekaoru/node-lessons)~~
 
 [Node.js写爬虫系列](https://cnodejs.org/topic/57c529cf9b447b634391c814)
