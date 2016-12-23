@@ -151,6 +151,8 @@
 
 [Node & Express 入门指南](https://zhuanlan.zhihu.com/p/24283620)
 
+[[译] 阅读 NodeJS 文档，我学到了这 19 件事情](https://zhuanlan.zhihu.com/p/24210807)
+
 
 ~~[《Node.js 包教不包会》](https://github.com/hanekaoru/node-lessons)~~
 
