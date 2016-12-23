@@ -30,6 +30,8 @@
 
 ----
 
+[[译] 如何用 Sketch 打造「前端框架」](https://zhuanlan.zhihu.com/p/24465933?refer=xitucircle)
+
 [JavaScript 包管理器工作原理简介](https://zhuanlan.zhihu.com/p/24045251)
 
 [230行实现一个简单的MVVM](https://zhuanlan.zhihu.com/p/24451202)
