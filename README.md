@@ -1,11 +1,3 @@
-三个用作记录的仓库：
-
-学习笔记，笔记之类， 一些 Demo 汇总 [笔记记录 + Demo汇总](https://github.com/hanekaoru/WebLearningNotes)
-
-一个资源库，收集一些自己遇到过（用过）的插件，组件一类的 [资源库](https://github.com/hanekaoru/Repository)
-
-一些不错的帖子汇总 [一些不错的帖子汇总](https://github.com/hanekaoru/BlogWall)
-
 ----
 
 一些不错的帖子汇总，索引
@@ -56,7 +48,7 @@
 
 [touchweb手机网站图片加载方法(canvas加载和延迟加载)](http://www.haorooms.com/post/touchweb_canvas_lazyload)
 
-[移动端H5图片上传的那些坑](https://segmentfault.com/a/1190000006140042)
+~~[移动端H5图片上传的那些坑](https://segmentfault.com/a/1190000006140042)~~
 
 [移动端HTML5音频与视频问题及解决方案](http://www.cnblogs.com/aaronjs/p/4812119.html)
 
@@ -129,7 +121,6 @@
 [一看就懂的ReactJs入门教程（精华版）](http://www.cocoachina.com/webapp/20150721/12692.html)
 
 [React 中文](http://react-china.org/)
-
 
 
 ## 构建、依赖工具
